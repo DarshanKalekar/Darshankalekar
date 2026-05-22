@@ -79,3 +79,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=120&section=footer"/>
 </p>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DarshanKalekar/DarshanKalekar/output/github-contribution-grid-snake-dark.svg" />
+</p>
