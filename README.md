@@ -60,11 +60,7 @@
 
 ---
 
-# 📈 Contribution Graph
 
-[![Darshan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)](https://github.com/YOUR_USERNAME)
-
----
 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=false&no-bg=true&margin-w=4)
